@@ -1,0 +1,9 @@
+node_modules/
+src/
+dist/
+packages/
+public/
+*config.*
+demo.*
+.github
+/index.js
